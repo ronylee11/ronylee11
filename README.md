@@ -4,9 +4,10 @@
 
 <img align="right" src="./.github/coffee.jpg">
 
-#### Hey!
+> Hey!
+
 I'm interested in coffee, chess, guitar, mechanical keyboards, weightlifting, and programming. <br/>
-I'm striving to be a Web Developer and Linux Expert.
+I'm a Web Developer and Linux Enthusiast.
 
 > I'm Rony /rɒnɪ/
 
