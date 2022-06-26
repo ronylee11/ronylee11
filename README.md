@@ -1,4 +1,7 @@
-[![Raining](./.github/raining.gif)](#)
+<p align="center">
+<img max-width="50%" height="auto" src="./.github/raining.gif">
+</p>
+
 <img align="right" src="./.github/coffee.jpg">
 
 #### Hey!
