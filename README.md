@@ -6,12 +6,12 @@
 
 > /rɒnɪ/
 
-I'm interested in coffee, chess, guitar, mechanical keyboards, weightlifting, and programming. <br/>
 I'm a Web Developer and Linux Enthusiast.
+Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting, and coding! <br/>
 
 I've been using Arch Linux since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
-[DWM](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen,  st+tabbed for minimal resource terminal <br/>
+[DWM](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
 [XFCE+BSPWM](https://www.github.com/ronylee11/xfce-bspwm) - my alt build that I made on my old laptop when I had to send my main laptop to repair <br/>
 
 My current favourite editor is nvim (btw).<br/>
