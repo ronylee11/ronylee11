@@ -18,7 +18,7 @@ My current favourite editor is nvim (btw).<br/>
 Here is my IDE setup <br/>
 [ant](https://www.github.com/ronylee11/ant) - I use Alacritty terminal, Neovim as my editor, and Tmux to organize my terminal sessions. <br/>
 
-Visit my ![personal website](https://www.ronydonni.tk)
+Visit my [personal website](https://www.ronydonni.tk)
 
 🧰 Languages and tools I'm learning until now: <br/>
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke)](#)
