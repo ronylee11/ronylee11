@@ -6,7 +6,7 @@
 
 > /rɒnɪ/
 
-I'm a Web Developer and Linux Enthusiast.
+I'm a Web Developer and Linux Enthusiast. <br/>
 Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting, and coding! <br/>
 
 I've been using Arch Linux since 2019, loved to mess around my setups and customizing my workspaces. <br/>
