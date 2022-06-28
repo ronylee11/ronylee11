@@ -4,12 +4,10 @@
 
 <img align="right" src="./.github/coffee.jpg">
 
-> Hey!
+> /rɒnɪ/
 
 I'm interested in coffee, chess, guitar, mechanical keyboards, weightlifting, and programming. <br/>
 I'm a Web Developer and Linux Enthusiast.
-
-> I'm Rony /rɒnɪ/
 
 I've been using Arch Linux since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
