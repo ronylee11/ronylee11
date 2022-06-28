@@ -11,12 +11,14 @@ Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting
 
 I've been using Arch Linux since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
-[DWM](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
-[XFCE+BSPWM](https://www.github.com/ronylee11/xfce-bspwm) - my alt build that I made on my old laptop when I had to send my main laptop to repair <br/>
+[dwm](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
+[xfce+bspwm](https://www.github.com/ronylee11/xfce-bspwm) - my alt build that I made on my old laptop when I had to send my main laptop to repair <br/>
 
 My current favourite editor is nvim (btw).<br/>
 Here is my IDE setup <br/>
-[ANT](https://www.github.com/ronylee11/ant) - I use Alacritty terminal, Neovim as my editor, and Tmux to organize my terminal sessions. <br/>
+[ant](https://www.github.com/ronylee11/ant) - I use Alacritty terminal, Neovim as my editor, and Tmux to organize my terminal sessions. <br/>
+
+Visit my ![personal website](https://www.ronydonni.tk)
 
 🧰 Languages and tools I'm learning until now: <br/>
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke)](#)
