@@ -34,9 +34,9 @@ Visit my [personal website](https://www.ronydonni.tk)
 [![GITHUB](https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke)](#)
 
 📖 What I'm learning next: <br/>
+[![ReactJS](https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey)](#)
 [![Sass](https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke)](#)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C)](#)
-[![ReactJS](https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey)](#)
 
 📱 How to reach me: <br/>
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/rony-lee-8700271b4/)
