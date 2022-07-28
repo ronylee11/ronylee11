@@ -10,7 +10,7 @@ I'm a Web Developer and Linux Enthusiast. <br/>
 Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting, and coding! <br/>
 Loved listening to neo soul, r&b, and soft pop music for the chill vibe. <br/>
 
-I've been using Arch Linux since 2019, loved to mess around my setups and customizing my workspaces. <br/>
+I've been using Arch Linux daily since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
 [dwm](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
 [xfce+bspwm](https://www.github.com/ronylee11/xfce-bspwm) - my alt build that I made on my old laptop when I had to send my main laptop to repair <br/>
@@ -42,5 +42,5 @@ Visit my [personal website](https://www.ronydonni.tk)
 📱 How to reach me: <br/>
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/rony-lee-8700271b4/)
 [![CodePen](https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke)](https://codepen.io/ronylee)
-[![Dev](https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to)](https://dev.to/ronylee11)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rongyil33/)
+[![Dev](https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to)](https://dev.to/ronylee11)
