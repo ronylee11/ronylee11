@@ -8,7 +8,7 @@
 
 I'm a Web Developer and Linux Enthusiast. <br/>
 Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting, and coding! <br/>
-Loved listening to neo soul, r&b, and soft pop music for the chill vibe. <br/>
+Love listening to neo soul, r&b, and soft pop music for the chill vibe. <br/>
 
 I've been using Arch Linux daily since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
