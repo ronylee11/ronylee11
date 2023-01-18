@@ -104,7 +104,7 @@ Visit my [personal website](https://rony.is-a.dev)
 </p>
 
 📱 How to reach me: <br/>
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/rony-lee-8700271b4/)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/ronylee11)
 [![CodePen](https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke)](https://codepen.io/ronylee)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rongyil33/)
 [![Dev](https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to)](https://dev.to/ronylee11)
