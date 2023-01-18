@@ -1,8 +1,12 @@
 <p align="center">
+<picture>
 <img max-width="50%" height="auto" src="./.github/raining.gif">
+</picture>
 </p>
 
+<picture>
 <img align="right" src="./.github/coffee.jpg">
+</picture>
 
 > /rɒnɪ/
 
