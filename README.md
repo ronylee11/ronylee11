@@ -22,22 +22,82 @@ Here is my IDE setup <br/>
 Visit my [personal website](https://rony.is-a.dev)
 
 🧰 Languages and tools I'm learning until now: <br/>
-[![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke)](#)
-[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke)](#)
-[![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey)](#)
 
-[![BootStrap](https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke)](#)
-[![MongoDB](https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen&style=for-the-badge&logo=mongoDB&logoColor=whitesmoke)](#)
-[![Express](https://img.shields.io/static/v1?label=&message=EXPRESS&color=grey&style=for-the-badge&logo=express&logoColor=whitesmoke)](#)
-[![NodeJS](https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke)](#)
+<p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
+</picture>
 
-[![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke)](#)
-[![GITHUB](https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke)](#)
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey"></source>
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="JavaScript">
+</picture> <br/>
+</p>
+
+<p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="BootStrap">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen&style=for-the-badge&logo=mongoDB&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen&style=for-the-badge&logo=mongoDB&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen&style=for-the-badge&logo=mongoDB&logoColor=whitesmoke" alt="MongoDB">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=EXPRESS&color=grey&style=for-the-badge&logo=express&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=EXPRESS&color=grey&style=for-the-badge&logo=express&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=EXPRESS&color=grey&style=for-the-badge&logo=express&logoColor=whitesmoke" alt="Express">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="NodeJS">
+</picture>
+</p>
+
+<p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
+</picture>
+</p>
 
 📖 What I'm learning next: <br/>
-[![ReactJS](https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey)](#)
-[![Sass](https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke)](#)
-[![TypeScript](https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C)](#)
+
+<p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey"></source>
+<img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="ReactJS">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="Sass">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C"></source>
+<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="TypeScript">
+</picture>
+</p>
 
 📱 How to reach me: <br/>
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/rony-lee-8700271b4/)
