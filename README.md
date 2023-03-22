@@ -4,9 +4,11 @@
 </picture>
 </p>
 
+<p style={ display: inline }>
 <picture>
 <img align="right" src="./.github/coffee.jpg">
 </picture>
+</p>
 
 > /rɒnɪ/
 
