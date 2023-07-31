@@ -18,8 +18,9 @@ Love listening to neo soul, r&b, and soft pop music for the chill vibe. <br/>
 
 I've been using Arch Linux as my daily driver since 2019, loved to mess around my setups and customizing my workspaces. <br/>
 Here are my desktop setups that I've been using for quite some time. <br/>
-[suckless](https://www.github.com/ronylee11/suckless) - my main build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
-[xfce+bspwm](https://www.github.com/ronylee11/xfce-bspwm) - my alt build that I made on my old laptop when I had to send my main laptop to repair <br/>
+[suckless](https://www.github.com/ronylee11/suckless) - my very first build with dwm + picom, dwmblocks for statusbar, dunst for notifications, slock for lockscreen, st+tabbed for minimal resource terminal <br/>
+[xfce+bspwm](https://www.github.com/ronylee11/xfce-bspwm) - my second build, utilizing the rich features of DE by combining it with a tiling window manager, made on my old laptop when I had to send my main laptop to repair <br/>
+[awesome](https://www.github.com/ronylee11/awesome) - my latest build of a very awesome setup with awesomeWM <br/>
 
 My current favourite editor is nvim (btw).<br/>
 Here is my IDE setup <br/>
