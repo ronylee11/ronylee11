@@ -13,7 +13,7 @@
 > /rɒnɪ/
 
 I'm a Web Developer and Linux Enthusiast. <br/>
-Come talk to me about coffee, chess, guitar, mechanical keyboards, weightlifting, and coding! <br/>
+Come talk to me about coffee, chess, guitar, custom keyboards, weightlifting, and coding! <br/>
 Love listening to neo soul, r&b, and soft pop music for the chill vibe. <br/>
 
 I've been using Arch Linux as my daily driver since 2019, loved to mess around my setups and customizing my workspaces. <br/>
@@ -36,21 +36,33 @@ Visit my [personal website](https://rony.is-a.dev)
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke"></source>
 <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
 </picture>
-
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke"></source>
 <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
 </picture>
-
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey"></source>
 <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="JavaScript">
-</picture> <br/>
-</p>
-
-<p>
+</picture> 
+<br/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></source>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></source>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></source>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
+</picture>
+<br/>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=blueviolet&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke"></source>
@@ -71,9 +83,7 @@ Visit my [personal website](https://rony.is-a.dev)
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke"></source>
 <img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=green&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="NodeJS">
 </picture>
-</p>
-
-<p>
+<br/>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke"></source>
@@ -83,6 +93,27 @@ Visit my [personal website](https://rony.is-a.dev)
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke"></source>
 <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
+</picture>
+<br/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></source>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></source>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></source>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></source>
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA">
 </picture>
 </p>
 
