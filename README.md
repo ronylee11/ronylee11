@@ -28,6 +28,13 @@ Here is my IDE setup <br/>
 
 Visit my [personal website](https://rony.is-a.dev)
 
+If you liked my work and wanted to support me, you can buy me a coffee! <br/>
+Your support will boost my motivation to keep creating more awesome stuff! <br/>
+
+<a href="https://www.buymeacoffee.com/ronylee" target="_blank">
+<img src="./.github/buymeacoffee.jpg" alt="Buy me a coffee" width="200" height="50">
+</a>
+
 🧰 Languages and tools I'm learning until now: <br/>
 
 <p>
@@ -115,11 +122,7 @@ Visit my [personal website](https://rony.is-a.dev)
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></source>
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA">
 </picture>
-</p>
-
-📖 What I'm learning next: <br/>
-
-<p>
+<br/>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey"></source>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey"></source>
@@ -135,12 +138,58 @@ Visit my [personal website](https://rony.is-a.dev)
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C"></source>
 <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="TypeScript">
 </picture>
+<br/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=NEXT.JS&color=%23000000&style=for-the-badge&logo=next.js&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=NEXT.JS&color=%23000000&style=for-the-badge&logo=next.js&logoColor=white"></source>
+<img src="https://img.shields.io/static/v1?label=&message=NEXT.JS&color=%23000000&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=NEST.JS&color=%23E0234E&style=for-the-badge&logo=nestjs&logoColor=white"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=NEST.JS&color=%23E0234E&style=for-the-badge&logo=nestjs&logoColor=white"></source>
+<img src="https://img.shields.io/static/v1?label=&message=NEST.JS&color=%23E0234E&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=REDIS&color=%23DC382D&style=for-the-badge&logo=redis&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=REDIS&color=%23DC382D&style=for-the-badge&logo=redis&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=REDIS&color=%23DC382D&style=for-the-badge&logo=redis&logoColor=whitesmoke" alt="Redis">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=%23336791&style=for-the-badge&logo=postgresql&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=%23336791&style=for-the-badge&logo=postgresql&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=%23336791&style=for-the-badge&logo=postgresql&logoColor=whitesmoke" alt="PostgreSQL">
+</picture>
+</p>
+
+📖 What I'm learning next: <br/>
+
+<p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=RUST&color=%23E57324&style=for-the-badge&logo=rust&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=RUST&color=%23E57324&style=for-the-badge&logo=rust&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=RUST&color=%23E57324&style=for-the-badge&logo=rust&logoColor=whitesmoke" alt="Rust">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=ZIG&color=%23EC1DFF&style=for-the-badge&logo=zig&logoColor=whitesmoke"></source>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=ZIG&color=%23EC1DFF&style=for-the-badge&logo=zig&logoColor=whitesmoke"></source>
+<img src="https://img.shields.io/static/v1?label=&message=ZIG&color=%23EC1DFF&style=for-the-badge&logo=zig&logoColor=whitesmoke" alt="Zig">
+</picture>
 </p>
 
 📱 How to reach me: <br/>
 
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke)](https://www.linkedin.com/in/ronylee11)
-[![CodePen](https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke)](https://codepen.io/ronylee)
-[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rongyil33/)
-[![Dev](https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to)](https://dev.to/ronylee11)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/834300211106676736)
+<a href="https://www.linkedin.com/in/ronylee11" target="_blank">
+<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin" width="120" height="30">
+</a>
+<a href="https://codepen.io/ronylee" target="_blank">
+<img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen" width="120" height="30">
+</a>
+<a href="https://www.instagram.com/rongyil33/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" width="120" height="30">
+</a>
+<a href="https://dev.to/ronylee11" target="_blank">
+<img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="Dev" width="80" height="30">
+</a>
+<a href="https://discordapp.com/users/834300211106676736" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="120" height="30">
+</a>
